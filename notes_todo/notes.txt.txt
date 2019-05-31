@@ -1,0 +1,3 @@
+checkif virtual env directory should be lower indir tree
+should it be within the rrpo directory, but set to be ignored, by the .gitignore
+rather than outside the root dir ?
