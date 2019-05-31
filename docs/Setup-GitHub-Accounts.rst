@@ -4,7 +4,7 @@ GitHub account setup
 Personal account
 ~~~~~~~~~~~~~~~~
 
-**Using Git commands**[#]
+**Using Git commands**  [#]
 
 Notes on set up of GitHub accounts to ensure commits are from private / personal account for training or personal projects
 
@@ -55,6 +55,7 @@ After any commit, the following command can be used to verify the user and email
 --------------
 
 -- [#note] Git commands apply to both linux and windows command lines
+.. [#note] Git commands apply to both linux and windows command lines
 
 
 
