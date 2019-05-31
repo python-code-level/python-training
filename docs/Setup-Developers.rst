@@ -29,8 +29,8 @@ Windows terminal (manual, with verification)
 
 :: Activate the virtualenv
 
-``cd env/Scripts
-  activate.bat``
+``cd env/Scripts``
+  ``activate.bat``
 
 :: Return to repo root
 
