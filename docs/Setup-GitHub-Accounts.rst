@@ -33,9 +33,9 @@ After any commit, use this command to verify the user and email address associat
 git log
 ```
 
-:::
+::
 git log
-:::
+::
 
 
 
