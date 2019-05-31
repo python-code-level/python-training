@@ -1,5 +1,5 @@
-Developers
-==========
+Developers Setup Guide
+======================
 
 Change directory to where your project repo will be located 
 
@@ -19,46 +19,52 @@ Windows terminal (manual, with verification)
 
 ``git clone https://github.com/python-code-level/python-training.git``
 
-:: Create 
-python3 -m venv env
+:: Create a new virtualenv within the repo 
 
-verify creation of virtual env
+``py -m venv env``
 
-dir # windows ll # linux
+:: Verify creation of the virtual env
 
-source trainingenv/bin/activate # linux .trainingenvScriptsactivate # windows
+``dir``
+
+:: Activate the virtualenv
+
+``cd env/Scripts
+  activate.bat``
+
+:: Return to repo root
+
+``cd ../..``
+
+:: Install required packages
+
+``pip install -r requirements.txt``
 
 
+Linux terminal (manual, with verification)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-verify current status of installed packages pip freeze
+# Verify appropriate python version in insallted (>= 3.6.7) 
 
+``python --version``
 
-pip install -r python-training/requirements.txt
+# Clone the repo content from remote GitHub repo
 
-veriy presence or Add a gitignore file to avoid commit of the environment
+``git clone https://github.com/python-code-level/python-training.git``
 
-requirement.txt
+# Create a new virtualenv within the repo 
 
+``python3 -m venv env``
 
-Linux terminal
-~~~~~~~~~~~~~~
+# Verify creation of virtual env
 
-python3 -m venv trainingenv # linux py -m venv trainingenv # windows
+``ll``
 
-verify creation of virtual env
+# Activate the virtualenv
 
-dir # windows ll # linux
+``source env/bin/activate``
 
-source trainingenv/bin/activate # linux .trainingenvScriptsactivate # windows
+# Install required packages
 
-verify python version python --version
+``pip install -r requirements.txt``
 
-verify current status of installed packages pip freeze
-
-clone the repo content git clone https://github.com/python-code-level/python-training.git
-
-pip install -r python-training/requirements.txt
-
-veriy presence or Add a gitignore file to avoid commit of the environment
-
-requirement.txt
