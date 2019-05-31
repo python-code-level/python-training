@@ -1,6 +1,9 @@
 GitHub account setup
 ====================
 
+Personl account
+~~~~~~~~~~~~~~~
+
 Notes on set up of GitHub accounts to ensure commits are from private / personal account for training or personal projects
 
 
