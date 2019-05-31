@@ -52,6 +52,10 @@ After any commit, the following command can be used to verify the user and email
 
 `` git log ``
 
+.. prompt:: bash
+    git log
+    cd test
+
 --------------
 
 -- [#note] Git commands apply to both linux and windows command lines
