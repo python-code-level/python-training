@@ -29,7 +29,8 @@ These can then be set with
 
 After any commit, use this command to verify the user and email address associated with the commit
 
-```git log
+```
+git log
 ```
 
 
