@@ -1,4 +1,5 @@
 GitHub account setup
+====================
 
 Notes on set up of GitHub accounts to ensure commits are from private / personal account for training or personal projects
 
@@ -28,7 +29,8 @@ These can then be set with
 
 After any commit, use this command to verify the user and email address associated with the commit
 
-git log 
+```git log
+```
 
 
 
