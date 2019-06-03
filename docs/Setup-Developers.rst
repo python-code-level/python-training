@@ -19,6 +19,8 @@ Windows terminal (manual, with verification)
 
 ``git clone https://github.com/python-code-level/python-training.git``
 
+:: Change directory into the project directory - python-training
+
 :: Create a new virtualenv within the repo 
 
 ``py -m venv env``
@@ -51,6 +53,10 @@ Linux terminal (manual, with verification)
 # Clone the repo content from remote GitHub repo
 
 ``git clone https://github.com/python-code-level/python-training.git``
+
+# Change directory into the project directory
+
+``cd python-training``
 
 # Create a new virtualenv within the repo 
 
