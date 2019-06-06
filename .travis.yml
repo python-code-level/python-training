@@ -24,4 +24,5 @@ script:
   - pytest
   - nosetests
   - python -m unittest
+  - coveralls
 after_success: coverage report 
