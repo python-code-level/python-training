@@ -27,6 +27,8 @@ script:
 #  - pytest --cov=sample
    - coverage run --source='.' tests/context.py test
 #  - coveralls
+# from ocveraglls site
+# coverage run --source=my_package setup.py test
 #after_script:
 #  - coveralls
 after_success: 
