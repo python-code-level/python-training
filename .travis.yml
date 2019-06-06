@@ -22,3 +22,6 @@ install:
 # command to run tests
 script:
   - pytest
+  - nosetests
+  - python -m unittest
+after_success: coverage report 
