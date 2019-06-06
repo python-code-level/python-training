@@ -16,7 +16,7 @@ env:
   - NUMPY_VERSION=1.14.0
 # command to install dependencies
 install:
-  - pip install -q Django==$NUMPY_VERSION
+  - pip install -q numpy==$NUMPY_VERSION
   - pip install -r requirements.txt
   - python setup.py -q install
 # command to run tests
