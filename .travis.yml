@@ -21,10 +21,11 @@ install:
   - python setup.py -q install
 # command to run tests
 script:
-#  - pytest
+  - pytest
   - nosetests
   - python -m unittest
-  - pytest --cov=sample
+#  - pytest --cov=sample
+   - coverage run --source='.' tests/context.py test
 #  - coveralls
 #after_script:
 #  - coveralls
