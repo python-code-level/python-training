@@ -25,7 +25,7 @@ script:
   - nosetests
   - python -m unittest
 #  - pytest --cov=sample
-   - coverage run --source='.' tests/context.py test
+  - coverage run --source='.' tests/context.py test
 #  - coveralls
 # from ocveraglls site
 # coverage run --source=my_package setup.py test
