@@ -21,11 +21,14 @@ install:
   - python setup.py -q install
 # command to run tests
 script:
-  - pytest
+#  - pytest
   - nosetests
   - python -m unittest
+  - pytest --cov=sample
 #  - coveralls
-after_script:
+#after_script:
+#  - coveralls
+after_success: 
   - coveralls
-after_success: coverage report 
+  - coverage report 
 
