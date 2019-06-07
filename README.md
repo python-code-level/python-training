@@ -8,12 +8,10 @@
 [![Travis](https://img.shields.io/travis/python-code-level/python-training/master.svg?label=Travis%20CI)](
     https://travis-ci.com/python-code-level/python-training)
     
-    
-    https://travis-ci.com/python-code-level/python-training.svg?branch=master
-
 
 [![Repo Size](https://img.shields.io/github/repo-size/python-code-level/python-training.svg)](https://github.com/repo-size/python-code-level/python-training) 
 
+[![Code Size](https://img.shields.io/github/languages/code-size/python-code-level/python-training.svg)](https://github.com/languages/code-size/python-code-level/python-training)
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
