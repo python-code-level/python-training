@@ -3,7 +3,6 @@ sphinx
 requests[security]
 coverage
 coveralls
-GDAL
 pep8
 scipy
 pandas
