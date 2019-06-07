@@ -3,3 +3,4 @@ sphinx
 requests[security]
 coverage
 coveralls
+GDAL
