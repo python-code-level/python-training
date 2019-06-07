@@ -1,3 +1,15 @@
 checkif virtual env directory should be lower indir tree
 should it be within the rrpo directory, but set to be ignored, by the .gitignore
 rather than outside the root dir ?
+
+
+add an overvie document section on continuous integration process
+travic i
+code climate
+py up  
+bandit 
+
+
+etc,
+
+
