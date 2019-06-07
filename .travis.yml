@@ -34,5 +34,6 @@ script:
 after_success: 
   - coveralls
   - coverage report 
-  - pip freeze
+  - echo $(pip freeze)
+  - echo $TRAVIS_PYTHON_VERSION
 
