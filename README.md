@@ -5,6 +5,10 @@
 
 [![Build Status](https://travis-ci.com/python-code-level/ticross.svg?branch=master)](https://travis-ci.com/python-code-level/ticross) 
 
+[![Repo Size](https://github/repo-size/python-code-level/python-training.svg)](https://github.com/repo-size/python-code-level/python-training) 
+
+/github/repo-size/:user/:repo.svg
+
 
 test
 
