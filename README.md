@@ -6,7 +6,11 @@
 [![Build Status](https://travis-ci.com/python-code-level/ticross.svg?branch=master)](https://travis-ci.com/python-code-level/ticross) 
 
 [![Travis](https://img.shields.io/travis/python-code-level/python-training/master.svg?label=Travis%20CI)](
-    https://travis-ci.org/python-code-level/python-training)
+    https://travis-ci.com/python-code-level/python-training)
+    
+    
+    https://travis-ci.com/python-code-level/python-training.svg?branch=master
+
 
 [![Repo Size](https://img.shields.io/github/repo-size/python-code-level/python-training.svg)](https://github.com/repo-size/python-code-level/python-training) 
 
