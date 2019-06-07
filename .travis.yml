@@ -34,4 +34,5 @@ script:
 after_success: 
   - coveralls
   - coverage report 
+  - pip freeze
 
