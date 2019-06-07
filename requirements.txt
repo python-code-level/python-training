@@ -5,3 +5,5 @@ coverage
 coveralls
 GDAL
 pep8
+scipy
+pandas
