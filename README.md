@@ -13,7 +13,13 @@
 
 [![Code Size](https://img.shields.io/github/languages/code-size/python-code-level/python-training.svg)](https://github.com/languages/code-size/python-code-level/python-training)
 
+[![Downloads](https://img.shields.io/github/downloads/python-code-level/python-training/total.svg)](https://github.com/downloads/python-code-level/python-training)
+
+
+
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+
 
 
 test
