@@ -17,7 +17,9 @@
 
 [![Code Climate M](https://img.shields.io/codeclimate/maintainability/pyhon-code-level/python-training.svg)](https://codeclimate.com/github/python-code-level/python-training)
 
-[![Py Up dependcy checks](https://pyup.io/repos/github/python-code-level/python-training/python-3-shield.svg)](https://pyup.io/repos/github/python-code-level/python-training)
+[![Py 3 checks](https://pyup.io/repos/github/python-code-level/python-training/python-3-shield.svg)](https://pyup.io/repos/github/python-code-level/python-training)
+
+[![Py Up dependency checks](https://pyup.io/repos/github/python-code-level/python-training/shield.svg)](https://pyup.io/repos/github/python-code-level/python-training)
 
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
