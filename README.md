@@ -15,6 +15,8 @@
 
 [![Downloads](https://img.shields.io/github/downloads/python-code-level/python-training/total.svg)](https://github.com/downloads/python-code-level/python-training)
 
+[![Code Climate M](https://img.shields.io/codeclimate/maintainability/pyhon-code-level/python-training.svg)](https://codeclimate.com/github/python-code-level/python-training)
+
 
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
