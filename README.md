@@ -17,6 +17,8 @@
 
 [![Code Climate M](https://img.shields.io/codeclimate/maintainability/pyhon-code-level/python-training.svg)](https://codeclimate.com/github/python-code-level/python-training)
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/c8df04b55200be76879d/maintainability)](https://codeclimate.com/github/python-code-level/python-training/maintainability)
+
 [![Py 3 checks](https://pyup.io/repos/github/python-code-level/python-training/python-3-shield.svg)](https://pyup.io/repos/github/python-code-level/python-training)
 
 [![Py Up dependency checks](https://pyup.io/repos/github/python-code-level/python-training/shield.svg)](https://pyup.io/repos/github/python-code-level/python-training)
