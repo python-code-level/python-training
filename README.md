@@ -7,6 +7,8 @@
 
 [![Repo Size](https://github/repo-size/python-code-level/python-training.svg)](https://github.com/repo-size/python-code-level/python-training) 
 
+[![Repo Size](https://img.shields.io/github/repo-size/python-code-level/python-training.svg)](https://github.com/repo-size/python-code-level/python-training) 
+
 /github/repo-size/:user/:repo.svg
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
