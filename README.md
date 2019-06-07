@@ -5,11 +5,11 @@
 
 [![Build Status](https://travis-ci.com/python-code-level/ticross.svg?branch=master)](https://travis-ci.com/python-code-level/ticross) 
 
-[![Repo Size](https://github/repo-size/python-code-level/python-training.svg)](https://github.com/repo-size/python-code-level/python-training) 
+[![Travis](https://img.shields.io/travis/python-code-level/python-training/master.svg?label=Travis%20CI)](
+    https://travis-ci.org/python-code-level/python-training)
 
 [![Repo Size](https://img.shields.io/github/repo-size/python-code-level/python-training.svg)](https://github.com/repo-size/python-code-level/python-training) 
 
-/github/repo-size/:user/:repo.svg
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
