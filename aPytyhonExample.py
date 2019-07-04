@@ -13,4 +13,5 @@ print "this may not print"
 print(var)
 
 
+print var + 22
 
