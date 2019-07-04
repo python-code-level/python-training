@@ -12,5 +12,6 @@ print(testPrint)
 
 print(var)
 
+print "test"
 
 
