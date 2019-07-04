@@ -13,7 +13,11 @@ class BasicTestSuite(unittest.TestCase):
         
     def test_printVar(self):
         assert False
-
+        
+    def pr():
+        print "testing"
+       
+        
 
 if __name__ == '__main__':
 unittest.main()
