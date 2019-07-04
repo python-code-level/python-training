@@ -2,13 +2,13 @@ import numpy
 
 # import iris
 
+# a very long comment >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 def testPrint:
   var = "this text"
   return var
 
-print testPrint
-
-print "this may not print"
+print(testPrint)
 
 print(var)
 
